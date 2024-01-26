@@ -1,7 +1,7 @@
 import numpy as np
 from tensorflow.keras.utils import to_categorical, Sequence
 
-from data import dataset, ma_batch, add_noise_random
+from .data import dataset, ma_batch, add_noise_random
 
 class generator(Sequence):
     def __init__(
