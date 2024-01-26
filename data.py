@@ -8,8 +8,8 @@ from scipy import signal
 from scipy.io import loadmat
 
 # local
-from label_dict import label_dict
-from bc_dict import bc_dict
+from .label_dict import label_dict
+from .bc_dict import bc_dict
 
 # build window rolling scheme
 def roll_labels(x, y):
