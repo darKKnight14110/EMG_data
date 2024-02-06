@@ -8,7 +8,7 @@ This repository contains an implementation of a simple model for recognizing ges
 
 The dataset collection process for the EMG Gesture Recognition model involves the following steps:
 
-1. **NinaPro DB5**: This dataset, also known as the "Double MYO" dataset, is the primary dataset used in the project. It consists of EMG data collected from subjects using two MYO armbands, capturing 16 channels of EMG signals along with triaxial accelerometer data.
+1. **NinaPro DB5**: This dataset, also known as the "Double MYO" dataset, is the primary dataset used in the project. It consists of EMG data collected from subjects using two MYO armbands, capturing 16 channels of EMG signals along with triaxial accelerometer data. The link for the dataset: https://ninapro.hevs.ch/instructions/DB5.html
 
 2. **Gesture Variety**: NinaPro DB5 contains a diverse set of 53 unique gestures performed by subjects. These gestures include fine finger movements, wrist actions, functional grasping motions, and periods of rest.
 
